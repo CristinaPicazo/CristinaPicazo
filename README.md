@@ -1,6 +1,12 @@
 # CristinaPicazo
 > [https://cristinapicazomerlos.com/](https://cristinapicazomerlos.com/)
 
+Hi 👋
+
+My name is Cristina and I am willing to learn as much as possible and be a better developer. I am still discovering which way I would like to follow and where I would feel more confortable but until then, I will continue developing new thoughts and dreams. I would love to listen any advice, so please feel free to send me a message if you feel it could help. Thank you
+
+
+
 ## Below, you will find a glimpse of some of the projects I have been working on over the past few years. Keep in mind that this list represents only a selection of a few of my repositories:
 
 - [CONNECT-E](https://github.com/CristinaPicazo/CONNECT-E)
